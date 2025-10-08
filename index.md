@@ -3,8 +3,10 @@
 ### Tehtävä 1  
 _not_
 
+
 ### Tehtävä 2  
 **will**
+
 
 ### Tehtävä 3  
 _Of course_ **a little moxie**
@@ -100,3 +102,4 @@ To doubt they were kneeling then.
 2. Pour a gallon of milk into the bowl.  
 
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
