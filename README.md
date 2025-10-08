@@ -1,1 +1,0 @@
-# nooajaakkola.github.io
