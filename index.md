@@ -1,18 +1,35 @@
 ## Nooa Jaakkola
 
+### Tehtävä 1  
 _not_
+
+### Tehtävä 2  
 **will**
+
+### Tehtävä 3  
 _Of course_ **a little moxie**
+
+### Tehtävä 4  
 **_This is unbelievable_**
+
+### Tehtävä 5  
 # Header one
 ## Header two
 ### Header three
 #### Header four
 ##### Header five
 ###### Header six
+
+### Tehtävä 6  
 #### _Colombian Symbolism in One Hundred Years of Solitude_
+
+### Tehtävä 7  
 [Search for it.](www.google.com)
+
+### Tehtävä 8  
 [You're **really, really** going to want to see this.](www.dailykitten.com)
+
+### Tehtävä 9  
 #### The Latest News from [the BBC](www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
@@ -81,4 +98,5 @@ To doubt they were kneeling then.
  If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
+
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
